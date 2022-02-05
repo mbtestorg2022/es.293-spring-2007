@@ -44,6 +44,26 @@ See you sometime when driving around, and remember: Life is great! (unless your 
 
 Smarty
 
-| ![Student Lego Project.]({{< resource_file f42cd4fd-cf92-9553-a4e1-a9606e771d5e >}})  {{< br >}}  {{< br >}}That's my board, and my friend remote control. | ![front_geers.jpg]({{< resource_file 10ae235d-d5a8-7d01-b5c9-69a94954f195 >}})  {{< br >}}  {{< br >}}This is my front gear system. Now you understand why I keep falling apart, hm? | ![Student Lego Project.]({{< resource_file 91253ccb-3641-a5a8-592e-33bedae4fd2e >}})  {{< br >}}  {{< br >}}Here is a view from the top. 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Student Lego Project.]({{< resource_file f42cd4fd-cf92-9553-a4e1-a9606e771d5e >}})  
+  
+That's my board, and my friend remote control.
+{{< tdclose >}}
+{{< tdopen >}}
+![front_geers.jpg]({{< resource_file 10ae235d-d5a8-7d01-b5c9-69a94954f195 >}})  
+  
+This is my front gear system. Now you understand why I keep falling apart, hm?
+{{< tdclose >}}
+{{< tdopen >}}
+![Student Lego Project.]({{< resource_file 91253ccb-3641-a5a8-592e-33bedae4fd2e >}})  
+  
+Here is a view from the top.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 And just for completeness, some of my programming: cd\_buttons ([C](./resolveuid/e5fa22e32755126dd67b9c20133af89f)), infra ([C](./resolveuid/ff49fe339d9696d35bde262b82c13927)).

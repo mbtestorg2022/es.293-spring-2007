@@ -8,14 +8,105 @@ Students will work on robotics projects of their own choosing over the course of
 
 The "challenges" are intended to inspire students, and are not mandatory. If a student already knows what they want to build, and it makes good use of their abilities, they are always welcome to work on it. Furthermore, a typical challenge takes at least two weeks. Challenges below are listed for every week, but probably should not be announced weekly.
 
-| WEEK # | TITLES | PROJECT/CHALLENGE |
-| --- | --- | --- |
-| 1 | Our friend the Lego | Challenge: return to childhood, and play with Legos! |
-| 2 | Beauty and the Lego | Build a good gear train with a geardown of 125:1 or greater; challenge: with a given motor, and a gear ratio of 125:1 or greater, make the fastest spinning arm. |
-| 3 | Cruisin' | Possible challenges: Build the car that can go up the steepest incline; build the fastest car.  {{< br >}}(In either challenge, vehicle must carry Handyboard or other self-contained power and switch mechanism.) |
-| 4 | Easy as C | Challenges: Build as agile a steering robot as possible.  This could be as easy as basic 2 motor steering (1 per wheel, or driving and turning motors); Build a steering robot you can control with a potentiometer. |
-| 5 | Making sense | Challenge: Build a new musical instrument or marionette. |
-| 6 | One, two, three, ... infinity |  {{< br >}}{{< br >}} Project: write, load, and execute a few simple IC programs on a board (doesn't need to be connected to your robot)  {{< br >}}Program 1 ([TXT](./resolveuid/25c763de974fc179d7c8d83ee79faa2f))  {{< br >}}Program 2 ([TXT](./resolveuid/7b6bf8cd843780a3eed41a83ffc7c267)) {{< br >}}{{< br >}} Challenge: Build a car that can move over as much of the floor of the Lego robotics lab as possible (using sensors to react to walls, etc.). {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+{{< thopen >}}
+PROJECT/CHALLENGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Our friend the Lego
+{{< tdclose >}}
+{{< tdopen >}}
+Challenge: return to childhood, and play with Legos!
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Beauty and the Lego
+{{< tdclose >}}
+{{< tdopen >}}
+Build a good gear train with a geardown of 125:1 or greater; challenge: with a given motor, and a gear ratio of 125:1 or greater, make the fastest spinning arm.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cruisin'
+{{< tdclose >}}
+{{< tdopen >}}
+Possible challenges: Build the car that can go up the steepest incline; build the fastest car.  
+(In either challenge, vehicle must carry Handyboard or other self-contained power and switch mechanism.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Easy as C
+{{< tdclose >}}
+{{< tdopen >}}
+Challenges: Build as agile a steering robot as possible.  This could be as easy as basic 2 motor steering (1 per wheel, or driving and turning motors); Build a steering robot you can control with a potentiometer.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Making sense
+{{< tdclose >}}
+{{< tdopen >}}
+Challenge: Build a new musical instrument or marionette.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+One, two, three, ... infinity
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project: write, load, and execute a few simple IC programs on a board (doesn't need to be connected to your robot)  
+Program 1 ([TXT](./resolveuid/25c763de974fc179d7c8d83ee79faa2f))  
+Program 2 ([TXT](./resolveuid/7b6bf8cd843780a3eed41a83ffc7c267))
+
+Challenge: Build a car that can move over as much of the floor of the Lego robotics lab as possible (using sensors to react to walls, etc.).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Another suggested evolution of robotic challenges is provided here. The goal is to provide students a concrete goal to work towards while allowing them to be creative with their solution. As students gain more skill and experience in programming, introducing challenges which are more programming intensive encourages them to think about the relations between the purpose of the robot, its mechanical design, and its program. (Courtesy Colin Dillard, and used with permission.)
 

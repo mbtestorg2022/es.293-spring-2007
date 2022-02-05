@@ -11,14 +11,150 @@ The first set of lectures consists of useful information for building robots. Fo
 
 Starting with the third lecture, we start each lecture by going around the table, with the students describing what they worked on over the past week, what difficulties they encountered, and what discoveries they think might be useful to other students. These comments often become jumping-off points for discussion and instruction of any topics that seem to be useful to the students.
 
-| WEEK # | TITLES | TOPICS |
-| --- | --- | --- |
-| 1 | Our friend the Lego |  {{< br >}}{{< br >}} "What is a robot?" {{< br >}}{{< br >}} Introduction, ground rules, expectations, etc. {{< br >}}{{< br >}} Demos: "clichés", gear boxes, robots from previous years {{< br >}}{{< br >}} Expectations: "mine" and "yours" (where "yours" is a discussion) {{< br >}}{{< br >}} There's an area in the lab for clichés - feel free to add to it! {{< br >}}{{< br >}}  |
-| 2 | Beauty and the Lego |  {{< br >}}{{< br >}} Different types of gears, gear ratios, etc. {{< br >}}{{< br >}} How gear trains work and how to build them {{< br >}}{{< br >}} How to build with Legos: pieces available, relations, robustness {{< br >}}{{< br >}} Basic mechanical problems and how to fix them {{< br >}}{{< br >}}  |
-| 3 | Cruisin' |  {{< br >}}{{< br >}} Introduction to components {{< br >}}{{< br >}} Motors: how to use, how to brace, how to put together; turn them off if they stall; note that they don't fit perfectly {{< br >}}{{< br >}} Handyboard: features, how to use template.c, recharging {{< br >}}{{< br >}} Remove motors and handyboard from robot if we're short on them (or they'll be removed for you) {{< br >}}{{< br >}}  |
-| 4 | Easy as C |  {{< br >}}{{< br >}} Introduction to programming (main(), commands) {{< br >}}{{< br >}} Motor, fd, bk, off, sleep {{< br >}}{{< br >}} Talk about different ways to steer {{< br >}}{{< br >}}  |
-| 5 | Making sense |  {{< br >}}{{< br >}} Exploring sensors: tactile, environmental, internal {{< br >}}{{< br >}} Analog, digital, handyboard buttons and knob {{< br >}}{{< br >}}  |
-| 6 | One, two, three, ... infinity |  {{< br >}}{{< br >}} Basic form of robot programs (the poll loop, state machines) {{< br >}}{{< br >}} Programmatic thinking {{< br >}}{{< br >}} Control structures: if, loops, functions {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Our friend the Lego
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"What is a robot?"
+
+Introduction, ground rules, expectations, etc.
+
+Demos: "clichés", gear boxes, robots from previous years
+
+Expectations: "mine" and "yours" (where "yours" is a discussion)
+
+There's an area in the lab for clichés - feel free to add to it!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Beauty and the Lego
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Different types of gears, gear ratios, etc.
+
+How gear trains work and how to build them
+
+How to build with Legos: pieces available, relations, robustness
+
+Basic mechanical problems and how to fix them
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cruisin'
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to components
+
+Motors: how to use, how to brace, how to put together; turn them off if they stall; note that they don't fit perfectly
+
+Handyboard: features, how to use template.c, recharging
+
+Remove motors and handyboard from robot if we're short on them (or they'll be removed for you)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Easy as C
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to programming (main(), commands)
+
+Motor, fd, bk, off, sleep
+
+Talk about different ways to steer
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Making sense
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exploring sensors: tactile, environmental, internal
+
+Analog, digital, handyboard buttons and knob
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+One, two, three, ... infinity
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basic form of robot programs (the poll loop, state machines)
+
+Programmatic thinking
+
+Control structures: if, loops, functions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Topics
 -----------------

@@ -30,6 +30,47 @@ I could go on forever telling you how I came up with all the ideas behind this p
 
 Being somewhat geometrically predisposed, the idea that eventually came into my head was to use a string, and have it make two legs of a triangle with the line between two places pulling on the string. When the axle holding it away from that line was removed, the string was suddenly released, launching the projectile. Perhaps the pictures below will illustrate this better. Observe my pretty little friend:
 
-|  {{< br >}}{{< br >}} ![Student Lego Project.]({{< resource_file 346aded6-ec23-c23e-a45c-bdb5b9842f50 >}}) {{< br >}}{{< br >}} Winch mechanism for pulling back spring. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![Student Lego Project.]({{< resource_file 023969f0-1ac8-a571-ee79-99bd84333b97 >}}) {{< br >}}{{< br >}} Trigger mechanism for releasing spring. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![Student Lego Project.]({{< resource_file 2535162a-ef1f-77f4-ee55-159505fef747 >}}) {{< br >}}{{< br >}} Aiming mechanism for adjusting vertical launch angle. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![Student Lego Project.]({{< resource_file 3b11229a-839f-976d-edd2-36cc2962956f >}}) {{< br >}}{{< br >}} A picture of the spring prepared for a launch. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![Student Lego Project.]({{< resource_file 346aded6-ec23-c23e-a45c-bdb5b9842f50 >}})
+
+Winch mechanism for pulling back spring.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+![Student Lego Project.]({{< resource_file 023969f0-1ac8-a571-ee79-99bd84333b97 >}})
+
+Trigger mechanism for releasing spring.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+![Student Lego Project.]({{< resource_file 2535162a-ef1f-77f4-ee55-159505fef747 >}})
+
+Aiming mechanism for adjusting vertical launch angle.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+![Student Lego Project.]({{< resource_file 3b11229a-839f-976d-edd2-36cc2962956f >}})
+
+A picture of the spring prepared for a launch.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ![Student Lego Project.]({{< resource_file 200113d6-bb3b-f58d-0377-7bfa25735438 >}})
