@@ -7,9 +7,9 @@ uid: 38557afb-40ab-6728-b24f-7cc2c02971a4
 Robotics Links
 --------------
 
-The Art of LEGO® Design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://handyboard.com/oldhb/techdocs/artoflego.pdf))
+The Art of LEGO® Design ([PDF](http://handyboard.com/oldhb/techdocs/artoflego.pdf))
 
-The Handy Board Technical Reference (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://handyboard.com/oldhb/software/icmanual/icmain.pdf))
+The Handy Board Technical Reference ([PDF](http://handyboard.com/oldhb/software/icmanual/icmain.pdf))
 
 [The Handy Board](http://handyboard.com/)
 

@@ -32,7 +32,7 @@ Our friend the Lego
 {{< tdopen >}}
 
 
-Policies, The Art of Lego (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://handyboard.com/oldhb/techdocs/artoflego.pdf))
+Policies, The Art of Lego ([PDF](http://handyboard.com/oldhb/techdocs/artoflego.pdf))
 
 Tips on fixing problems with your Handyboard ([PDF]({{< baseurl >}}/resources/mits_293s07_how_to_fix))
 
@@ -68,7 +68,7 @@ Cruisin'
 {{< tdopen >}}
 
 
-Handyboard Technical Reference (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://handyboard.com/oldhb/software/icmanual/icmain.pdf)), pp. 6-8.
+Handyboard Technical Reference ([PDF](http://handyboard.com/oldhb/software/icmanual/icmain.pdf)), pp. 6-8.
 
 Demo geared motors (lots of torque!!)
 
