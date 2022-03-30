@@ -17,7 +17,7 @@ The Handy Board Technical Reference ([PDF](http://handyboard.com/oldhb/software/
 
 The Official [LEGO® Home Page](http://www.lego.com/)
 
-[2.007 Home Page](/courses/2-007-design-and-manufacturing-i-spring-2009/)
+[2.007 Home Page](/courses/2-007-design-and-manufacturing-i-spring-2009)
 
 [MIT Leg Lab Home Page](http://www.ai.mit.edu/projects/leglab/)
 

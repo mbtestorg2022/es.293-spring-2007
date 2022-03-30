@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: catapult_small.jpg
 uid: b2bd67ba-bfba-ba0a-a11e-683344625a2c

@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: kit_4half.jpg
 uid: a57f0b51-6547-ead2-5ce8-5e10a92a6c4b

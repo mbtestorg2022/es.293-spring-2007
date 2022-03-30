@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: afternoon_3.jpg
 uid: 1f21d5bd-eabe-5fcf-f3ba-bad974aacbc1

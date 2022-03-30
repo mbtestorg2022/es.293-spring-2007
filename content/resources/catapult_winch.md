@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: catapult_winch.jpg
 uid: 346aded6-ec23-c23e-a45c-bdb5b9842f50

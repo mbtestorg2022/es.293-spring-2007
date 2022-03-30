@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 036c1983-7039-2671-43af-609365ee8161
 resourcetype: Image
 title: floor.gif
 uid: 5bbda4e1-fdcd-d16e-64b4-67c2ef39d99a

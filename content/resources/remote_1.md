@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: remote_1.jpg
 uid: 99b14c3d-e3e7-4259-3eb2-e1d92bd12760

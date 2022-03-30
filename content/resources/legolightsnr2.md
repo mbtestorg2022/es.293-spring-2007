@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: legolightsnr2.jpg
 uid: fc35280d-793f-8600-3af2-8c9c2af3a931

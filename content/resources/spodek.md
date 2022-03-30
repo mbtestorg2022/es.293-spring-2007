@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: spodek.jpg
 uid: de5b20d8-ba91-bb7f-3ae6-ac9e76f33f1a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: odd_1.jpg
 uid: 0ff195d3-7616-d799-f9dd-ef9b5cce2b62

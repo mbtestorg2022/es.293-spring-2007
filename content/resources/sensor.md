@@ -10,6 +10,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: sensor.jpg
 uid: 1ea291e3-ca9a-e8ae-0996-05e385f3efbf

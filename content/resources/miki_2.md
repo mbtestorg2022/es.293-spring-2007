@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: miki_2.jpg
 uid: c7edc32e-aff0-a5f5-8299-52ff274fe2f2
